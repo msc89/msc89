@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Markus
-- 👀 I’m interested in coding, Web-Development, HTML, CSS, JavaScript, ReactJS, Web-GL, PHP, MySQL
+- 👀 I’m interested in coding, Web-Development, HTML, CSS, JavaScript, ReactJS, MySQL
 - 🌱 I’m currently learning JavaScript & ReactJS
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me...
