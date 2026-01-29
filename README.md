@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Markus
-- 👀 I’m interested in coding, Web-Development, HTML, CSS, JavaScript, ReactJS, MySQL
-- 🌱 I’m currently learning JavaScript & ReactJS
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me...
+- 👀 I’m interested in coding - Python, MySQL, HTML, CSS, 
+- 🌱 I’m currently learning Data Analytics
 
 <!---
 msc89/msc89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
